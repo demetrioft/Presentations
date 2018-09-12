@@ -1,17 +1,17 @@
-# Flux 
+# Kick-off Call 
 
-An application architecture for React
-
----
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+First official meeting of Eurisko Team (DFT and BMC)
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+### Agenda
+
+- Status of StartUp Project
+- Objective: Chronogram Approval
+- Tasks Assignment for first week
+
+---
+
+
 
 
