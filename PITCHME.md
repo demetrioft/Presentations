@@ -50,6 +50,8 @@ TIME BUDGET ESTIMATION:
 
 2 -Modeling spatio-temporal distribution of soil moisture by deep learning-based cellular automata model: https://www.researchgate.net/publication/325974939_A_review_of_the_use_of_convolutional_neural_networks_in_agriculture
 
+---
+
 3 - A review of the use of convolutional neural networks in agriculture: https://www.researchgate.net/publication/325974939_A_review_of_the_use_of_convolutional_neural_networks_in_agriculture
  
 TIME BUDGET ESTIMATION:
