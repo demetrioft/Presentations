@@ -32,6 +32,8 @@ OUTPUT DATA: scalar
 
 DNN ARCHITECTURE: CNN
 
+---
+
 ### DATASETS
 
 1.NASA satellite: https://explorer.earthengine.google.com/#detail/NASA_USDA%2FHSL%2FSMAP_soil_moisture
@@ -41,7 +43,8 @@ http://edge.climate.copernicus.eu/
 
 TIME BUDGET ESTIMATION:
 
-TECHNICAL VIABILITY (PAPERS ON SIMILAR PROJECTS): 
+---
+### TECHNICAL VIABILITY (PAPERS ON SIMILAR PROJECTS): 
 
 1 - Estimation of soil moisture using deep learning based on satellite data: a case study of South Korea: https://www.tandfonline.com/doi/figure/10.1080/15481603.2018.1489943?scroll=top&needAccess=true 
 
@@ -49,5 +52,5 @@ TECHNICAL VIABILITY (PAPERS ON SIMILAR PROJECTS):
 
 3 - A review of the use of convolutional neural networks in agriculture: https://www.researchgate.net/publication/325974939_A_review_of_the_use_of_convolutional_neural_networks_in_agriculture
  
-
+TIME BUDGET ESTIMATION:
 
