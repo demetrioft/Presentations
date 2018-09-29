@@ -12,7 +12,7 @@
 ---
 
 
-# B.CNN for prdiction of Soil Moisture from satellite images
+###  B.CNN for prdiction of Soil Moisture from satellite images
 
 INPUT DATA: Images
 
@@ -45,5 +45,5 @@ TIME BUDGET ESTIMATION:
 TIME BUDGET ESTIMATION:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDg1MjkyMTNdfQ==
+eyJoaXN0b3J5IjpbMTQ2Mjk5NDQ4N119
 -->
