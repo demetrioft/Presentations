@@ -6,25 +6,13 @@
 
 ---
 
-## A.DNN for predicting fire classification [Categorical Classification]
 
-INPUT DATA:
-
-OUTPUT DATA:
-
-DNN ARCHITECTURE:
-
-DATASET: INCE (Portugal), kaggle
-
-TIME BUDGET ESTIMATION:
-
-FINANCIAL BUDGET ESTIMATION:
 
 
 ---
 
 
-## B.CNN for prdiction of Soil Moisture from satellite images
+# B.CNN for prdiction of Soil Moisture from satellite images
 
 INPUT DATA: Images
 
@@ -56,3 +44,6 @@ TIME BUDGET ESTIMATION:
  
 TIME BUDGET ESTIMATION:
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyNDg1MjkyMTNdfQ==
+-->
